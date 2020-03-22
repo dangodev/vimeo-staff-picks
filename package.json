@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "build": "node getStaffPicks"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "vimeo": "^2.1.1"
+  }
+}
